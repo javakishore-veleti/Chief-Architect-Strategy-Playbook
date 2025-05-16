@@ -1,5 +1,14 @@
 # Innovation Strategy
 
+# Strategic Notes for Chief Architects
+As a Chief Architect, your role in innovation is not just to support it technically, but to enable and govern it:
+
+Define the guardrails for experimentation without stifling creativity.
+
+Help innovation scale through reusable architecture and platform thinking.
+
+Ensure innovation aligns with long-term enterprise capabilities and technical direction.
+
 ## Vision
 
 To embed innovation as a core organizational capability that drives continuous value creation, enhances competitiveness, and empowers both business and technology functions to experiment, adapt, and scale ideas rapidly. Innovation should move beyond isolated projects to become a systemic, scalable discipline.
