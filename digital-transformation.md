@@ -1,5 +1,16 @@
 # Digital Transformation Strategy
 
+## Chief Architect’s Role
+
+As Chief Architect, you:
+- Provide the **architectural vision** to support enterprise-wide digital transformation.
+- Align business goals with technology enablers across cloud, platforms, and integration layers.
+- Define guardrails that promote **modularity, agility, and innovation** at scale.
+- Drive **legacy modernization** through architectural evolution and system decomposition.
+- Lead strategic governance to ensure digital investments align with enterprise direction.
+
+---
+
 ## Vision
 
 To reinvent the enterprise by leveraging digital technologies, data, and agile culture to deliver new value to customers, improve operational efficiency, and create competitive advantage. Digital transformation is not just about adopting new tools—it's about rethinking the business model, culture, and architecture to thrive in the digital age.
