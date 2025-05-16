@@ -25,6 +25,8 @@ This repository provides a curated collection of strategic blueprints aligned wi
 Each playbook document follows this strategic template:
 
 ---
+## Chief Architect’s Role
+Highlights the enterprise architecture leadership responsibilities specific to this strategy.
 
 ## Vision
 Define the long-term transformation or architecture goal.
