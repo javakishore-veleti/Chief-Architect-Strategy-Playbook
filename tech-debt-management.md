@@ -1,5 +1,16 @@
 # Technical Debt Management Strategy
 
+## Chief Architect’s Role
+
+As Chief Architect, you:
+- Make **technical debt visible and governable** across the architecture and delivery lifecycle.
+- Define frameworks to classify, quantify, and prioritize debt based on risk and value.
+- Embed architecture reviews and quality gates into SDLC to prevent long-term accumulation.
+- Advocate for **intentional debt decisions** tied to speed-to-market trade-offs.
+- Track **architecture health** as a strategic KPI and influence funding for refactoring initiatives.
+
+---
+
 ## Vision
 
 To proactively identify, measure, and manage technical debt in a way that balances innovation velocity with long-term sustainability, system health, and architectural integrity. The goal is to make technical debt a visible, governable part of IT strategy—treated as a risk asset rather than a hidden liability.
