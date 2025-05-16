@@ -44,6 +44,5 @@ To proactively identify, measure, and manage technical debt in a way that balanc
 - **Architecture Fitness Functions**: Automate checks for architectural conformance over time.
 - **Refactoring Sprints**: Time-boxed, periodic efforts focused solely on debt reduction.
 
----
 
 > _“You can’t manage what you don’t measure. Technical debt is the silent killer of innovation if left unchecked.”_
