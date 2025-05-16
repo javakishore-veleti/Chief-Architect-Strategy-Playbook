@@ -1,5 +1,16 @@
 # Modern Cloud Services Adoption Strategy
 
+## Chief Architect’s Role
+
+As Chief Architect, you:
+- Define the **target cloud architecture** and adoption roadmap across the enterprise.
+- Ensure cloud platforms align with application modernization, DevOps, and integration goals.
+- Establish governance for **multi-cloud architecture**, security, and service selection.
+- Champion **platform engineering practices** to promote reuse and developer autonomy.
+- Influence vendor strategy, cost optimization, and cloud-native capability alignment.
+
+---
+
 ## Vision
 
 To enable enterprise agility, scalability, and innovation by leveraging cloud-native services, modern infrastructure, and managed platforms that align with business outcomes and digital transformation goals. The strategy focuses not just on migration, but on adopting cloud as a foundational model for delivering business capabilities.
