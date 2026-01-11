@@ -6,6 +6,12 @@ They convert architectural judgment into **reusable, automated defaults**.
 
 ---
 
+## One-Line Summary
+
+Golden paths turn complex architectural decisions into safe defaults that scale across teams and time.
+
+---
+
 ## What Problem Do Golden Paths Solve?
 
 In large enterprises, chaos emerges from:
@@ -167,7 +173,3 @@ Golden paths are how Chief Architects:
 - Protect the enterprise
 
 ---
-
-## One-Line Summary
-
-Golden paths turn complex architectural decisions into safe defaults that scale across teams and time.
