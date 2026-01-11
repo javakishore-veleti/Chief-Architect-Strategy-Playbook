@@ -1,7 +1,6 @@
 # Fragile vs Resilient Systems (One Graphic)
 
-This one-page graphic is designed for newsletters, blog posts, and architecture reviews.
-It contrasts how *fragile* and *resilient* systems behave across key dimensions.
+This one-page graphic is designed for architecture reviews. It contrasts how *fragile* and *resilient* systems behave across key dimensions.
 
 > **Definition:** A system is **fragile** when small changes cause disproportionate failures.  
 > A system is **resilient** when it absorbs change and failure while maintaining predictable behavior.
