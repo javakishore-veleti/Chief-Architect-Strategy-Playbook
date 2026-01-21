@@ -51,3 +51,86 @@
 6. Candidate Roadmap Components - 12 work packages (DA-01 to DA-12), €10M over 18 months
 7. Architecture Definition Document - Components and decisions
 8. Requirements Specification - Functional and non-functional requirements
+
+
+
+```text
+
+Phase C: Data Architecture - Part 2 (Catalogs and Matrices):
+Contents:
+1. Data Entity/Data Component Catalog (87 entities across 9 domains):
+
+Customer Domain (10 entities)
+Account Domain (10 entities)
+Transaction Domain (10 entities)
+Card Domain (10 entities)
+Investment/Wealth Domain (12 entities - NEW)
+Risk & Compliance Domain (12 entities)
+Treasury Domain (8 entities)
+Reference Data (10 entities)
+Event/Audit Entities (7 entities)
+
+2. Data Entity/Business Function Matrix:
+
+Customer Management Functions
+Banking Services Functions
+Wealth Management Functions (NEW)
+Risk & Compliance Functions
+Operations Functions
+
+3. Application/Data Matrix:
+
+Customer Domain Applications
+Account & Transaction Applications
+Wealth Applications (NEW)
+Risk & Compliance Applications
+Treasury Applications
+Analytics & ML Applications
+Data Platform Applications
+Data Ownership Summary
+```
+
+```text
+Phase C: Data Architecture - Part 3 (Diagrams):
+Contents:
+1. Conceptual Data Diagram
+
+Enterprise Conceptual Data Model (ASCII visualization)
+Domain Relationships Summary (12 relationships defined)
+Core Data Domains overview
+
+2. Logical Data Diagram
+
+Customer Domain Logical Model (with full attribute details)
+Account & Transaction Domain Logical Model
+Investment/Wealth Domain Logical Model (NEW - complete schema)
+
+3. Data Dissemination Diagram
+
+Real-Time Data Flows (Kafka event streaming with latency targets)
+Batch Data Flows (Data Lake pipelines with schedules)
+Customer 360 Data Aggregation Flow
+
+4. Data Security Diagram
+
+4-Layer Security Architecture (Perimeter, Access Control, Data Protection, Monitoring)
+Data Classification & Controls (6 levels from PII-Critical to Public)
+Access Control Matrix
+Encryption Standards
+
+5. Data Migration Diagram
+
+Migration Strategy (3 phases over 15 months)
+Migration Workflow (Extract → Transform → Validate → Load → Verify)
+Detailed Migration Schedule by domain
+Rollback Strategy
+
+6. Data Lifecycle Diagram
+
+5 Lifecycle Stages (Create, Store, Use, Archive, Destroy)
+Retention Policies by data category
+Storage Tiers (Active → Historical → Archive)
+GDPR Data Subject Rights implementation
+
+
+```
