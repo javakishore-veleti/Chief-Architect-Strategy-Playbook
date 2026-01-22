@@ -24,3 +24,9 @@
 5. Architecture contract (updated if necessary)
 6. Compliance assessments (updated if necessary)
 
+## Artifacts Produced
+
+None
+
+Now ask the question - "Does the proposed change a new ADM cycle?" - like if change is big enough. This could be like new types of technologies like Augmented Reality etc.
+
