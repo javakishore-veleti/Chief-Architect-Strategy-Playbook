@@ -21,4 +21,18 @@
 
 ## Output of Opportunities & Solutions
 
-1. 
+1. Refined Phase A Deliverables
+2. Draft architecture definition document
+    a. Incl. baseline and target BDAT architecture approved
+    b. Inc. transition architecture views
+3. Draft architecture requirements specification - incl. gap analysis
+4. Capability assessments
+5. Architecture roadmap
+    a. Incl. work package portflio
+6. Implenetation & Migration Plan, draft version
+
+## Artifacts Produced
+
+### Diagrams:
+1. Product context diagram
+2. Beneift diagram
