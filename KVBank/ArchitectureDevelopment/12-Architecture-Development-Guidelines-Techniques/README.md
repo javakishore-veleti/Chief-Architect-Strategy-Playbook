@@ -43,3 +43,28 @@
     -- Keep Satisfied, Key Players
     -- Minimal Effort, Keep Informed
 
+# Technique 3: Architecture Patterns
+
+- Building Blocks can be considered as patterns
+- Architecture Pattern is defined as "When, Why, and How you use it" those ABBs and SBBs
+- Once you have developed a number of "building blocks", you may want to establish patterns for them
+
+
+# Technique 3: Gap Analysis
+
+- Highlight beween baseline and target architectures
+- Baseline architecture - as it currently exists
+- Target architecture - is desired destination
+- Gaps are anything added, changed or intentionally omitted
+- Will also identify things accidentally omitted
+- It should be clear and easy to explain why things were added or removed
+
+# Technique 4: Migration Planning Techniques
+
+1. Implementation Factor Assessment and Deduction Matrix
+2. Consolidated Gaps, Solutions, & Dependencies Matrix
+3. Architecture Definition Increments Table
+4. Transistion Architecture State Evolution Table
+5. Business Value Assessment Technique
+
+
