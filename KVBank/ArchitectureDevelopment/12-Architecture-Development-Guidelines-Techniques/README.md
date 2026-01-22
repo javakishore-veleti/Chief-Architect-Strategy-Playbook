@@ -67,4 +67,27 @@
 4. Transistion Architecture State Evolution Table
 5. Business Value Assessment Technique
 
+## Implementation Factor Catalog
+
+Factors typically include:
+
+1. Risks
+2. Issues
+3. Assumptions
+4. Dependencies
+5. Actions
+6. Impacts
+
+### Implementation Factor Catalog
+| Factor | Description | Deduction |
+|--------|-------------|-----------|
+|<Name of Factor> | <Descriptoin of Factor> | <Impact on Migration Path> |
+|--------|-------------|-----------|
+|Change in Technology | Shutdown the message centers, saving 700 personnel,, and have them replaced by email | Need for personnedl training, re-assignment. Email has major personnel savings and should be given priority |
+|--------|-------------|-----------|
+|Consolidation of services |  |  |
+|--------|-------------|-----------|
+|Introduction of New Customer Service |  |  |
+|--------|-------------|-----------|
+
 
