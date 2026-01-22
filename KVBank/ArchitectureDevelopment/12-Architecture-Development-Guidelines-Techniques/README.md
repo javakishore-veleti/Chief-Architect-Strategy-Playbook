@@ -79,6 +79,7 @@ Factors typically include:
 6. Impacts
 
 ### Implementation Factor Catalog
+
 | Factor | Description | Deduction |
 |--------|-------------|-----------|
 |<Name of Factor> | <Descriptoin of Factor> | <Impact on Migration Path> |
@@ -90,4 +91,36 @@ Factors typically include:
 |Introduction of New Customer Service |  |  |
 |--------|-------------|-----------|
 
+## Consolidated Gaps, Solutions, & Dependencies Matrix
+
+- Gaps identified during phase B, C and D
+- This matrix can be used as a planning tool when creating work packages
+- Work packages identified during phase E and F
+
+## Architecture Definition Increments Table
+
+- Architecture Definition Increments table allows the architect to plan a series of Transistion Architecturs
+
+- Lists the projects and then assigning their incremental deliverables across the Transistion Architectures
+
+## Target Architecture State Evolution Table
+
+- Show the proposed state of the architectures at various levels
+- At a glance, anyone can see that after Phase 1 of implementation, the new services that will be available even if they are not fully transistioned to the final target architecture yet
+- Can also use a color coding matrix, with green, yellow and red showing the state of various services after each transistion architecture is implemented
+
+## Business Value Assessment Technique
+
+- A technique to assess business value based on risk versus value
+- Another "at-a-glance" way to see the status of the overall implementation project on the overall architecture implementation value
+- Some projects that are at risk might be low value, which is better than high value projects being at risk
+
+# Technique 5: Interoperability Requirements
+
+- Definition of "Interoperability" means "the ability to share information and services"
+- Business Interoperability - how business teams work together
+- Information Interoperability - how data is shared
+- Technical Interoperability - how technical services are connected to one another
+- Ease of the architecture definition phases has elements of interoperability
+- Architects think about how what they do interacts with the "outside world" during the process
 
