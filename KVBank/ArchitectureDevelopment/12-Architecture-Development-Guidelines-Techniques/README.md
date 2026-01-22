@@ -124,3 +124,27 @@ Factors typically include:
 - Ease of the architecture definition phases has elements of interoperability
 - Architects think about how what they do interacts with the "outside world" during the process
 
+# Tecnique 6: Business Readiness Trasnformation Assessment (BRTA)
+
+- "Evaulating and quantifying an organization's readiness to undergo change"
+- Understanding how to get your organization to change is a key to success
+
+## Recommended Activites for BRTA
+1. Determine the readiness factors that will impact the organization
+2. Present the readiness factos using maturing models
+3. Assess the readiness factors, including determination of readiness factor ratings
+4. Assess the risks for each readiness factor and identify improvement actions to mitigate the risk
+5. Work these actions into Phase E and F Implementation and Migration Plan
+
+## Example Readiness Factors
+1. Vision
+2. Desire, Willingness, Resolve
+3. Need
+4. Business Case
+5. Funding
+6. Leadership, Sponsor, Champion
+7. Governance
+8. Accountability
+9. IT Capacity to Execute
+10. Enterprise Capacity to Execute
+
