@@ -22,3 +22,7 @@
 2. Compliance assessments
 3. Change requests
 4. Architecture compliant solutions deployed
+
+## Artifacts Produced
+
+None
