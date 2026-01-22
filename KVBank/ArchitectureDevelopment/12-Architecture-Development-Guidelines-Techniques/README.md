@@ -148,3 +148,32 @@ Factors typically include:
 9. IT Capacity to Execute
 10. Enterprise Capacity to Execute
 
+# Technique 7: Risk Management
+
+- All about identifying those risks
+- What are the risks of mgirating to the target architecture
+- Identify them and track them
+- Initial Level of Risk and Residual Level of Risk
+    -- Initial Level of Risk is the risk that exists if you do nothing to mitigage them
+    -- Residual Level of Risk is the risk that remains after you have mitigated them
+    -- Example: Client Acceptance Risk
+        --- How do you measure it, what is the likelihood of this coming true or not
+            ---- Likely, Somewhat Likely
+            ---- Frequent communcations is the mitigation risk
+            ---- And what would the cost to the busienss if it comes true?
+
+# Tecnique 8: Architecture Alternatives and Trade-Offs
+
+- a techmnique to identify alternative Target Architectures and perform trade-offs between the alternatives
+--- example: daily report to retain customers and one of the rep is going to call customers to change their mind
+---- Choose which architecture to use is a matter of trade-offs
+
+## TradeOffs Types
+1. Flexibility
+2. Time and Cost
+3. Length of time to achieve beneifts
+4. Adherence to architecture guidelines
+5. Solution delivery method (develop, buy)
+6. Impact on business capabilities
+7. Risk
+
